@@ -16,10 +16,10 @@
             <div class="col">
                <div class="card mt-5">
                   <div class="card-header text-center">
-                            <h3>Covid 19 Country Live Update </h3>
+                            <h3>Covid 19 Live Update </h3>
                         </div>
                         <div class="card-body">
-                            <div id="countries-table"></div>
+                            <div id="table"></div>
                         </div>
                     </div>
                 </div>
@@ -29,10 +29,10 @@
             <div class="col">
                 <div class="card mt-5">
                     <div class="card-header text-center">
-                        <h3>Covid 19 Live Update </h3>
+                        <h3>Covid 19 Country Live Update</h3>
                     </div>
                     <div class="card-body">
-                        <div id="table"></div>
+                        <div id="countries-table"></div>
                     </div>
                 </div>
             </div>
