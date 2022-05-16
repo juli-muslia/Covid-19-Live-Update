@@ -22,7 +22,7 @@ $value = ' <table class="table table-bordered">
 ';
 
 $i=0;
-while ($i<7){
+while ($i<1){
 
     $value .=' <tr class="bg-dark text-white">';
     $value .='<td>' .$global_cases['Global']['NewConfirmed']. '</td>';
